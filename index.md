@@ -1,1 +1,21 @@
 ## Aim
+```
+git better
+```
+- to structure training for oncology
+- lay foundations for future prescribing qualifications
+
+## Resources
+- BLT module
+    - Advantages: Robust, Thorough
+    - Disadvantages: Out of date
+- LTHT module
+    - Advantages: New
+    - Disadvantages: Untested
+- BOPA module
+    - Advantages: "industry" tested
+    - Disadvantages: Paywall
+
+## Plan
+- [ ] Draw up a reading list
+    - [ ] Objectives for each document
