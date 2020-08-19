@@ -25,8 +25,8 @@ I want to:
 - so I ran `git pull` which also didn't work as the histories weren't linked
    - then ran `git pull --allow-unrelated-histories`
 - we then managed to `git push origin master` where origin is the local and master is the remote branch that we want to merge
+- went to settings and created github pages from the master branch and selected a jekyll theme
 
 ## To-do
-- make a *new* master branch that has 'gh' in the name to publish to github pages
 - document the reading I've been doing for ward work
 - maybe think about having a site map
