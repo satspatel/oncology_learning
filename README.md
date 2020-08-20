@@ -30,3 +30,4 @@ I want to:
 ## To-do
 - document the reading I've been doing for ward work
 - maybe think about having a site map
+    - review this document to look at structure https://jekyllrb.com/docs/structure/
