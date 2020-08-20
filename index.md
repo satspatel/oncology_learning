@@ -17,6 +17,8 @@ git better
 - BOPA module
     - Advantages: "industry" tested
     - Disadvantages: Paywall
+- Ward training module
+    - good for overview of complications associated with onc-haem patients
 
 ## Plan
 - [ ] Draw up a reading list
