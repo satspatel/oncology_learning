@@ -1,7 +1,7 @@
 # Aims of this site
 
 ## Link to the readme
-
+[The first real post](_posts/2020-08-19-my-to-do.md)
 ## Aim
 
 ```
