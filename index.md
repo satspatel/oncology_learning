@@ -1,6 +1,9 @@
 # Aims of this site
 
+## Link to the readme
+
 ## Aim
+
 ```
 git better
 ```
