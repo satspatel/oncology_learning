@@ -1,4 +1,10 @@
-# What's this all about
+---
+title: my progress
+tags: [progress] 
+last_updated: 20th August 2020
+summary: "A mess of a page that should be formatted in a clearer consise way"
+---
+## What's this all about
 
 It's probably easier to talk about my objectives:
 
